@@ -1,0 +1,3 @@
+models/*.weights
+# Byte-compiled / optimized / DLL files
+yolov3/__pycache__/*
